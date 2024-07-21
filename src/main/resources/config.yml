@@ -1,0 +1,3 @@
+TablistHeader: "Header"
+TablistFooter: "Footer"
+NameSeparator: " <dark_gray>| </dark_gray>"
