@@ -1,0 +1,4 @@
+name: craft-tab
+version: '${version}'
+main: dev.thebjoredcraft.crafttab.CraftTablist
+api-version: '1.20'
